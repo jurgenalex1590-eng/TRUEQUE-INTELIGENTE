@@ -1,2 +1,2 @@
 # TRUEQUE-INTELIGENTE
-Plataforma para compra, venta e intercambio de productos entre estudiantes.
+Plataforma para compra, venta, donación e intercambio de productos entre estudiantes.
